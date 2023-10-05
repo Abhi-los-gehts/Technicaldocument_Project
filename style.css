@@ -87,3 +87,24 @@ b {
  /* font-weight: 20px;   */
 }
 
+
+.footer , ion-icon { 
+    padding: 20px;
+    background-color: rgb(16, 152, 210);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+
+
